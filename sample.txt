@@ -1,3 +1,0 @@
-this is the sample file
-
-this text is added after creating the some-branch
