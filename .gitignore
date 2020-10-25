@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# excluding the .orig files
+*.orig
