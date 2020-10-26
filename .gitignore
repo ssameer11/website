@@ -1,3 +1,6 @@
+# excluding the .orig files
+*.orig
+
 # Logs
 logs
 *.log
