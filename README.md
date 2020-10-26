@@ -6,3 +6,5 @@ this is the change from __some_branch__
 
 ## repository purpose
 this is the conflict on the local side
+
+updating the readme file so do it 
